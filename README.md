@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav9t" alt="vaibhav9t" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio site](https://vaibhav9t.github.io/portfolio_site/)
+- 🔭 I’m currently working on [AI Invoice Generator (InvoiceAI)](https://github.com/Vaibhav9T/AI_Powered_Invoice_Generator)
 
 - 🌱 I’m currently learning **Python**
 
