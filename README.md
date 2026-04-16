@@ -20,7 +20,7 @@
 ### 🚀 Technologies & Tools
 <p align="center">      
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,css,js,vite,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,vercel,github,postman,vscode,figma,xd&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,css,js,vite,react,vue,tailwind,npm,nextjs,Three.js,mysql,mongodb,firebase,netlify,vercel,github,postman,vscode,figma,xd&perline=6" />
   </a>
 </p>
 
